@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">8_Multimedia</string>
+
+    <string name="Play"> Play </string>
+    <string name="Pause"> Pause </string>
+    <string name="Rewind"> Rewind</string>
+
+
+</resources>
